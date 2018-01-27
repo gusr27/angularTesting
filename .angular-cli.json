@@ -1,7 +1,11 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
+<<<<<<< HEAD
     "name": "fusion"
+=======
+    "name": "fusion"
+>>>>>>> origin/master
   },
   "apps": [
     {
@@ -19,7 +23,11 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+<<<<<<< HEAD
+       "styles.scss"
+=======
+        "styles.scss"
+>>>>>>> origin/master
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
@@ -54,7 +62,11 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+<<<<<<< HEAD
+    "styleExt": "scss",
+=======
+    "styleExt": "scss",
+>>>>>>> origin/master
     "component": {}
   }
 }
